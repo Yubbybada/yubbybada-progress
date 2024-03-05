@@ -7,7 +7,6 @@ Anyway this repository serves as a record of how I became a programmer(not yet) 
 
 Also its fun to look back at how far you came
 
-ty OumarYanni for a lot of the layout
 # Contents
 ### Schedule
 I aim to code at least twice a week, as I am involved in other stuff too. 
