@@ -15,11 +15,11 @@ If I ever start to slow down on my schedule, send me an angry email
 ### How to navigate
 so far, I haven't wrote a single entry yet but I imagine they'll look a bit like this:
 
-All entries will be in one giant folder separated by months
+- All entries will be in one giant folder separated by months
 
-Projects will be in separate folders and entries will be written there as well as a mini entry in the big folder.
+- Projects will be in separate folders and entries will be written there as well as a mini entry in the big folder.
 
-A folder to all the resources I used will also be available
+- A folder to all the resources I used will also be available
 
 Maybe this system will change as I literally just read a few tutorials on how to use github
 
