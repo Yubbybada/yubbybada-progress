@@ -28,3 +28,18 @@ Maybe this system will change as I literally just read a few tutorials on how to
 Thanks OumarYanni's One-Commit-Per-Day for inspiration for a lot of the layout
 
 Also thanks to shepherd-06 and MjMoshi for their programming diaries to serve as inspiration
+
+## Some extra context about me
+
+I am a young teen looking to one day making a fully functioning game.
+
+To do this I have some priorities (it goes in order of importance):
+
+- Learn how to code (python at this moment)
+
+- Learn how to make music
+
+- Learn how to make art
+
+Posting progress of those here too but it will mainly be programming
+
