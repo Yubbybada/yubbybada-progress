@@ -43,3 +43,7 @@ To do this I have some priorities (it goes in order of importance):
 
 Posting progress of those here too but it will mainly be programming
 
+### Juicy parts
+
+If you're here viewing this and don't have much time I reccomend reading day 1, skipping everything else and moving onto the march folder
+
